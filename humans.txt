@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Saimir <twitter>
+    Saimir Balleshi
+	saimir.balleshi@gmail.com
+	DevOps Engineer
 
 # THANKS
 
