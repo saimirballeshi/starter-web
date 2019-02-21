@@ -6,13 +6,15 @@
     Saimir Balleshi
 	saimir.balleshi@gmail.com
 	DevOps Engineer njesh
-
+	hello new skills
 # THANKS
 
     <name>
+	test
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr, realize
 	Docker, Javascript Programming
+	hiiiii
