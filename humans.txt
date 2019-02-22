@@ -11,8 +11,7 @@
 
 # THANKS
 
-    <name>
-	test
+	Thanks to all my students
 
 # TECHNOLOGY COLOPHON
 
