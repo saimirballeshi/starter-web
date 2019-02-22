@@ -8,8 +8,9 @@ Hi, I am modifying the file before rebase.
     Saimir Balleshi
 	saimir.balleshi@gmail.com
 	DevOps Engineer
-	DevOps Engineer njesh
+	DevOps Engineer njesh level III
 	hello new skills
+	IT Organisation
 
 # THANKS
 
